@@ -1,5 +1,5 @@
-title: Modernist theme
-description: Modernist is a theme for GitHub Pages.
+title: Test Website for Terraform Test
+description: This is a test website that will sit behind a CDN to generate traffic logs.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-modernist
